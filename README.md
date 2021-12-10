@@ -12,7 +12,8 @@ In this project I've tried to implement this functionalities:
 ## With more time
 * I would use indirectional one to one relationship to minimalize null fields
 * I would make unit tests for service methods
-* I would try to replace implementation of parseJson and eventDuration methods with more functional oriented style and not so impreative and hard to understand 
+* I would try to replace implementation of parseJson and eventDuration methods with more functional oriented style and not so impreative and hard to understand
+* More user friendly exceptions handling
 ## Build With
 * Java
 * Maven
