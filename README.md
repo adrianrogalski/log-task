@@ -1,5 +1,5 @@
 # Log Task
-I've spend 3h on this project 
+I've spend 3h on this project, HibernateUtil class, hibernate.properties where reused from my other project
 ## How to install
 Please download the whole project and compile it while remembering to update the maven dependencies. Please note that you must first set argument in the run/debug configurations as a absolute path of your file or use "logfile.txt" which is included into the project and replace its sample data If you wish.
 ## Functionalities 
